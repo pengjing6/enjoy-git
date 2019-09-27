@@ -14,7 +14,10 @@ public class Example {
     public String home(){
 
 
-        return "hello git--idea";
+
+        return "hello git--idea--github";
+
+
 
 
     }
