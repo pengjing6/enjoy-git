@@ -13,7 +13,7 @@ public class Example {
 
     @RequestMapping("/")
     public String home(){
-        return "hello git  -v0.1";
+        return "hello git  -v0.6 --master";
     }
 
     public static void main(String[] args) {
