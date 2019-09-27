@@ -13,7 +13,7 @@ public class Example {
     @RequestMapping("/")
     public String home(){
 
-        return "hello git  -v0.7 --master--merge--git--idea--github";
+        return "hello git  -v0.7 --master--merge--git--idea--github---333";
 
     }
 
