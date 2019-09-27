@@ -14,7 +14,7 @@ public class Example {
     public String home(){
 
 
-        return "hello git  -v0.7 --master--merge--git--idea--github---222";
+        return "hello git  -v0.7 --master--merge--git--idea--github---222----ddd";
 
 
     }
